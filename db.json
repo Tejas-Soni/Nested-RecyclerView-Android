@@ -1,0 +1,48 @@
+{
+	"list": [{
+			"id": 1,
+			"seller_name": "Automobile",
+			"data": [{
+					"name": "maruti suzuki",
+					"price": "1.2L",
+					"image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=http%3A%2F%2Fcms.haymarketindia.net%2Fmodel%2Fuploads%2Fmodelimages%2FS-PressoModelImage.jpg&h=300&w=450&q=100"
+				},
+				{
+					"name": "Hyundai",
+					"price": "1.2L",
+					"image": "https://imgd.aeplcdn.com/600x337/n/cw/ec/41197/hyundai-verna-right-front-three-quarter7.jpeg?q=85"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"seller_name": "Electronics",
+			"data": [{
+					"name": "Television",
+					"price": "42k",
+					"image": "https://5.imimg.com/data5/GH/KV/MY-3094430/electronics-lcd-tv-500x500.jpg"
+				},
+				{
+					"name": "Mobile",
+					"price": "20k",
+					"image": "https://images-na.ssl-images-amazon.com/images/I/41sGASjc4-L.jpg"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"seller_name": "Beauty",
+			"data": [{
+					"name": "Ponds cream",
+					"price": "2k",
+					"image": "https://images-na.ssl-images-amazon.com/images/I/51FWF0DVBaL._SY355_.jpg"
+				},
+				{
+					"name": "Nivea lotion",
+					"price": "1k",
+					"image": "https://images-static.nykaa.com/media/catalog/product/4/2/42316718__2_.png?tr=w-500,pr-true"
+				}
+			]
+		}
+	]
+}
